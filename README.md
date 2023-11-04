@@ -1,5 +1,5 @@
 # code-lab
-A project containing starter templates to complete various coding challenges.
+A project containing starter templates to complete various coding challenges and katas.
 
 # Motivation
 Initial code will be used as a template for a Local Java project quickstart
